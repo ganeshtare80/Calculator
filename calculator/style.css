@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family:sans-serif;
+    background: linear-gradient(45deg,black,#3a3a3a);
+
+}
+
+.button{
+    background: transparent;
+    color: white;
+    width: 60px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: -8px -8px 15px rgba(38, 33, 33, 0.1);
+    font-size: larger;
+}
+
+button:hover{
+    background-color: rgb(45, 43, 43);
+}
+
+.row{
+    margin: 6px 0;
+}
+
+.row input{
+    height: 8vh;
+    width: 291px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}

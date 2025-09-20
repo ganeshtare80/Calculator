@@ -1,1 +1,2 @@
-html,css and JS can be used to create calculator.
+#Calculator
+I Developed this Calculator using html & css &javascript 
